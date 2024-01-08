@@ -1,6 +1,8 @@
 # Django Resume Uploader
 
 Django Resume Uploader is a web application built with Django that facilitates the upload and management of resumes. It provides a user-friendly interface for users to upload their resumes, and administrators can review and manage the submitted resumes.
+![screenshot](https://github.com/Prasad981998/ResumeUploader/blob/main/screenshotRU.PNG)
+*Caption: This is main page.*
 
 ## Features
 
